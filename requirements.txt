@@ -5,3 +5,7 @@ timm
 h5py
 submitit
 scikit-image
+fvcore >= 0.1.5,< 0.1.6
+portalocker
+pycocotools>=2.0.2
+omegaconf>=2.1
